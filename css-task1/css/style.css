@@ -1,0 +1,23 @@
+
+body{
+    background-color: slategrey;
+}
+
+.li-inline {
+    display: inline;
+    list-style: none;
+    margin:0px 5px 5px 0px;
+    list-style-position: inside;
+}
+
+.title {
+    color: chocolate;
+    font-size: 32;
+}
+
+a {
+   text-decoration: none;
+   color: springgreen;
+   font-size: 1.3em;
+}
+
